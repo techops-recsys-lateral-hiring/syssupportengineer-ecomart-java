@@ -24,7 +24,7 @@ on the business, improve the code base and deliver value.
 
 ## Problem Statement
 
-The JOI Energy development team faces a critical situation with limited resources due to the absence of key members. The immediate challenge is to continue progressing on the development of the API for customer and smart meter interaction while maintaining and improving the code base. The current circumstances highlight the need for addressing bugs, enhancing performance, and seizing the opportunity to deliver value to the business.
+The immediate challenge is to increase the stability of the application by maintaining and improving the code base along with  progressing on the development of the API for customer and smart meter interaction
 
 ## Users
 
