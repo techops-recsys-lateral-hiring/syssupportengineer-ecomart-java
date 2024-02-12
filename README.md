@@ -22,23 +22,9 @@ Unfortunately, two members of the team are on annual leave, and another one has 
 another ThoughtWorker to progress with the current user stories on the story wall. This is your chance to make an impact
 on the business, improve the code base and deliver value.
 
-## Story Wall
+## Problem Statement
 
-At JOI energy the development team use a story wall or Kanban board to keep track of features or "stories" as they are
-worked on.
-
-The wall you will be working from today has 7 columns:
-
-- Backlog
-- Ready for Dev
-- In Dev
-- Ready for Testing
-- In Testing
-- Ready for sign off
-- Done
-
-Examples can be found
-here [https://leankit.com/learn/kanban/kanban-board/](https://leankit.com/learn/kanban/kanban-board/)
+The JOI Energy development team faces a critical situation with limited resources due to the absence of key members. The immediate challenge is to continue progressing on the development of the API for customer and smart meter interaction while maintaining and improving the code base. The current circumstances highlight the need for addressing bugs, enhancing performance, and seizing the opportunity to deliver value to the business.
 
 ## Users
 
