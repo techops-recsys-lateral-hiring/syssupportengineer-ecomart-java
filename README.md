@@ -11,7 +11,7 @@ There are three major providers of energy in town that charge different amounts 
 
 # Introducing JOI Energy
 
-JOI Energy is a new start-up in the energy industry. Rather than selling energy they want to differentiate themselves
+JOI Energy (formerly EcoMart) is a start-up in the energy industry. Rather than selling energy they want to differentiate themselves
 from the market by recording their customers' energy usage from their smart meters and recommending the best supplier to
 meet their needs.
 
