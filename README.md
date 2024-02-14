@@ -11,21 +11,15 @@ There are three major providers of energy in town that charge different amounts 
 
 # Introducing JOI Energy
 
-JOI Energy (formerly EcoMart) is a start-up in the energy industry. Rather than selling energy they want to differentiate themselves
-from the market by recording their customers' energy usage from their smart meters and recommending the best supplier to
-meet their needs.
+JOI Energy (formerly EcoMart) is a start-up in the energy industry. Rather than selling energy they want to differentiate themselves from the market by recording their customers' energy usage from their smart meters and recommending the best supplier to meet their needs.
 
-You have been placed into their development team, whose current goal is to produce an API which their customers and
-smart meters will interact with.
+You have been placed in a small support team along with their development team, whose current goal is to produce an API which their customers and smart meters will interact with.
 
-Unfortunately, two members of the team are on annual leave, and another one has called in sick! You are left with
-another ThoughtWorker to progress with the current user stories on the story wall. This is your chance to make an impact
-on the business, improve the code base and deliver value.
+Unfortunately, two members of the support team are on annual leave, and another one has called in sick! You are left with another ThoughtWorker to support the application and provide value to the client by having minimum/no disruptions in the application
 
 ## Problem Statement
 
-The immediate challenge is to increase the stability of the application by maintaining and improving the code base along with  progressing on the development of the API for customer and smart meter interaction
-
+The immediate challenge is to increase the stability of the application by maintaining and improving the code base while in parallel the development of the API for customer and smart meter interaction is ongoing
 ## Users
 
 To trial the new JOI software 5 people from the JOI accounts team have agreed to test the service and share their energy
